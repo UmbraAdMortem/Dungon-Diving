@@ -95,12 +95,20 @@ OS:            Linux 7.0.12-100.fc43.x86_64 amd64
 
 ### Run
 </summary>
+
+```
+./gradlew run
+```
 </details>
 
 <details open>
 <summary>
 
 ### Build
+
+```
+./gradlew build
+```
 </summary>
 </details>
 
@@ -108,6 +116,10 @@ OS:            Linux 7.0.12-100.fc43.x86_64 amd64
 <summary>
 
 ### Test
+
+```
+./gradlew test
+```
 </summary>
 </details>
 
