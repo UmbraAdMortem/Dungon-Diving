@@ -2,6 +2,7 @@
     "recommendations": [
         "vscjava.vscode-java-pack",
         "bierner.github-markdown-preview",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "yzhang.markdown-all-in-one"
     ]
 }
