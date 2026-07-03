@@ -1,6 +1,4 @@
 .gradle
-
-# Ignore Gradle build output directory
 **/build/
 !**/src/**/build/
 
@@ -21,6 +19,3 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
-
-# Ignore Kotlin plugin data
-.kotlin
