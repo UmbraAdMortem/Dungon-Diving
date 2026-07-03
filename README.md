@@ -141,6 +141,9 @@ OS:            Linux 7.0.12-100.fc43.x86_64 amd64
 - [ ] Create [Gradle](https://gradle.org/) Project
 - [ ] Setup auto-versioning
 - [ ] Setup auto-changelog
+- [ ] Setup git hooks
+- [ ] Setup CI
+- [ ] Setup CD
 - [ ] Character creation
 - [ ] Map creation
 - [ ] Add [libGDX](https://libgdx.com/)
